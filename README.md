@@ -1,0 +1,1 @@
+Practice Repository to refresh and revisit HTML and CSS foundation before tackling Javascript Foundations. Will be doing all of this before tackling react.js 
